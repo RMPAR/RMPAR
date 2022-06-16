@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RMPAR
 - 👀 I’m interested in Programing and web design
 - 🌱 I’m currently learning HTML, CSS, JS, Ruby
+- 🌱 I'm currently taking HarvardX CS50S at edX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ricardompereyra@gmail.com
 
